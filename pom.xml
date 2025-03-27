@@ -39,9 +39,15 @@
 	
 	<pluginRepositories>
 	    <pluginRepository>    
-		<id>maven1</id>
-		<name>Maven.org</name>
-		<url>https://repo.maven.apache.org/maven2</url>
+	        <id>central</id>
+	        <name>Maven Central Repository</name>
+	        <url>https://repo.maven.apache.org/maven2</url>
+	        <releases>
+	            <enabled>true</enabled>
+	        </releases>
+	        <snapshots>
+	            <enabled>false</enabled>
+	        </snapshots>
 	    </pluginRepository>
 	</pluginRepositories>
 
