@@ -10,7 +10,6 @@
     <header>
       <h1>Aravind Fresh Farm Milk Dairy</h1>
       <p>Pure & Fresh Milk Delivered to Your Doorstep</p>
-      <p>Order Now</p>
     </header>
 
     <main>
