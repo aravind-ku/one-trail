@@ -54,7 +54,7 @@
     </main>
 
     <footer>
-      <p>&copy; 2025 Fresh Farm Milk Dairy. All rights reserved.</p>
+      <p>&copy; 2025 Fresh Farm Milk Dairy. All rights reserved. </p>
     </footer>
 
     <script src="script.js"></script>
