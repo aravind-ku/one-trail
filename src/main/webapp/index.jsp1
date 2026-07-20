@@ -245,7 +245,7 @@
           placeholder="10-digit number"
         />
 
-        <label for="address">Delivery Address:</label>
+        <label for="address">Delivery Address:-</label>
         <textarea id="address" name="address" required></textarea>
 
         <label for="milkType">Select Milk Type:</label>
