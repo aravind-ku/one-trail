@@ -43,7 +43,7 @@
           <label for="quantity">Quantity (Litres):</label>
           <input type="number" id="quantity" name="quantity" min="1" required />
 
-          <button type="submit">Submit Your Order</button>
+          <button type="submit">Submit Order</button>
         </form>
 
         <div id="confirmationMessage" class="hidden">
